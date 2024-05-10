@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Open Camera Gallery Image</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_firt">Capture Camera Image Using Old Technique i.e. Using StartActivityForResult</string>
+    <string name="title_second">Capture Camera Image Using New Technique i.e. Using RegisterActivityForResult</string>
+    <string name="captre_image">Capture Image</string>
+    <string name="next">Next</string>
+</resources>
